@@ -83,7 +83,6 @@ app.*.map.json
 # Coverage
 coverage/
 
-# Generated files
-*.g.dart
+# Generated files (Hive adapters are kept for easier setup)
 *.freezed.dart
 lib/generated_plugin_registrant.dart
