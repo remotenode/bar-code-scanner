@@ -1,0 +1,241 @@
+{
+  "@@locale": "en",
+  "appTitle": "Barcode Scanner",
+  "@appTitle": {
+    "description": "The title of the application"
+  },
+  "scannerTitle": "Scan Code",
+  "@scannerTitle": {
+    "description": "Title for the scanner screen"
+  },
+  "historyTitle": "History",
+  "@historyTitle": {
+    "description": "Title for the history screen"
+  },
+  "settingsTitle": "Settings",
+  "@settingsTitle": {
+    "description": "Title for the settings screen"
+  },
+  "resultTitle": "Scan Result",
+  "@resultTitle": {
+    "description": "Title for the result screen"
+  },
+  "copy": "Copy",
+  "@copy": {
+    "description": "Copy button label"
+  },
+  "share": "Share",
+  "@share": {
+    "description": "Share button label"
+  },
+  "open": "Open",
+  "@open": {
+    "description": "Open button label"
+  },
+  "addContact": "Add Contact",
+  "@addContact": {
+    "description": "Add contact button label"
+  },
+  "copied": "Copied to clipboard",
+  "@copied": {
+    "description": "Message shown when text is copied"
+  },
+  "noHistory": "No scan history yet",
+  "@noHistory": {
+    "description": "Message shown when history is empty"
+  },
+  "clearHistory": "Clear History",
+  "@clearHistory": {
+    "description": "Clear history button label"
+  },
+  "clearHistoryConfirm": "Are you sure you want to clear all history?",
+  "@clearHistoryConfirm": {
+    "description": "Confirmation message for clearing history"
+  },
+  "cancel": "Cancel",
+  "@cancel": {
+    "description": "Cancel button label"
+  },
+  "confirm": "Confirm",
+  "@confirm": {
+    "description": "Confirm button label"
+  },
+  "delete": "Delete",
+  "@delete": {
+    "description": "Delete button label"
+  },
+  "darkMode": "Dark Mode",
+  "@darkMode": {
+    "description": "Dark mode setting label"
+  },
+  "vibration": "Vibration",
+  "@vibration": {
+    "description": "Vibration setting label"
+  },
+  "sound": "Sound",
+  "@sound": {
+    "description": "Sound setting label"
+  },
+  "language": "Language",
+  "@language": {
+    "description": "Language setting label"
+  },
+  "cameraPermissionDenied": "Camera permission denied",
+  "@cameraPermissionDenied": {
+    "description": "Error message when camera permission is denied"
+  },
+  "cameraPermissionRequired": "Camera permission is required to scan barcodes",
+  "@cameraPermissionRequired": {
+    "description": "Message explaining camera permission requirement"
+  },
+  "openSettings": "Open Settings",
+  "@openSettings": {
+    "description": "Button to open app settings"
+  },
+  "noCameraAvailable": "No camera available",
+  "@noCameraAvailable": {
+    "description": "Error message when no camera is found"
+  },
+  "flashOn": "Flash On",
+  "@flashOn": {
+    "description": "Flash on tooltip"
+  },
+  "flashOff": "Flash Off",
+  "@flashOff": {
+    "description": "Flash off tooltip"
+  },
+  "switchCamera": "Switch Camera",
+  "@switchCamera": {
+    "description": "Switch camera tooltip"
+  },
+  "formatQRCode": "QR Code",
+  "@formatQRCode": {
+    "description": "QR Code format name"
+  },
+  "formatDataMatrix": "Data Matrix",
+  "@formatDataMatrix": {
+    "description": "Data Matrix format name"
+  },
+  "formatPDF417": "PDF417",
+  "@formatPDF417": {
+    "description": "PDF417 format name"
+  },
+  "formatAztec": "Aztec",
+  "@formatAztec": {
+    "description": "Aztec format name"
+  },
+  "formatEAN13": "EAN-13",
+  "@formatEAN13": {
+    "description": "EAN-13 format name"
+  },
+  "formatEAN8": "EAN-8",
+  "@formatEAN8": {
+    "description": "EAN-8 format name"
+  },
+  "formatUPCA": "UPC-A",
+  "@formatUPCA": {
+    "description": "UPC-A format name"
+  },
+  "formatUPCE": "UPC-E",
+  "@formatUPCE": {
+    "description": "UPC-E format name"
+  },
+  "formatCode128": "Code 128",
+  "@formatCode128": {
+    "description": "Code 128 format name"
+  },
+  "formatCode39": "Code 39",
+  "@formatCode39": {
+    "description": "Code 39 format name"
+  },
+  "formatCode93": "Code 93",
+  "@formatCode93": {
+    "description": "Code 93 format name"
+  },
+  "formatITF": "ITF",
+  "@formatITF": {
+    "description": "ITF format name"
+  },
+  "formatCodabar": "Codabar",
+  "@formatCodabar": {
+    "description": "Codabar format name"
+  },
+  "formatUnknown": "Unknown",
+  "@formatUnknown": {
+    "description": "Unknown format name"
+  },
+  "contentTypeUrl": "URL",
+  "@contentTypeUrl": {
+    "description": "URL content type"
+  },
+  "contentTypeText": "Text",
+  "@contentTypeText": {
+    "description": "Text content type"
+  },
+  "contentTypeWifi": "WiFi",
+  "@contentTypeWifi": {
+    "description": "WiFi content type"
+  },
+  "contentTypeContact": "Contact",
+  "@contentTypeContact": {
+    "description": "Contact content type"
+  },
+  "contentTypeEmail": "Email",
+  "@contentTypeEmail": {
+    "description": "Email content type"
+  },
+  "contentTypePhone": "Phone",
+  "@contentTypePhone": {
+    "description": "Phone content type"
+  },
+  "contentTypeSms": "SMS",
+  "@contentTypeSms": {
+    "description": "SMS content type"
+  },
+  "contentTypeCalendar": "Calendar Event",
+  "@contentTypeCalendar": {
+    "description": "Calendar content type"
+  },
+  "contentTypeGeo": "Location",
+  "@contentTypeGeo": {
+    "description": "Geo location content type"
+  },
+  "scannedAt": "Scanned at {time}",
+  "@scannedAt": {
+    "description": "Time when the code was scanned",
+    "placeholders": {
+      "time": {
+        "type": "String"
+      }
+    }
+  },
+  "about": "About",
+  "@about": {
+    "description": "About section label"
+  },
+  "version": "Version {version}",
+  "@version": {
+    "description": "App version",
+    "placeholders": {
+      "version": {
+        "type": "String"
+      }
+    }
+  },
+  "historyCleared": "History cleared",
+  "@historyCleared": {
+    "description": "Message shown when history is cleared"
+  },
+  "itemDeleted": "Item deleted",
+  "@itemDeleted": {
+    "description": "Message shown when an item is deleted"
+  },
+  "undo": "Undo",
+  "@undo": {
+    "description": "Undo action label"
+  },
+  "pointCameraAtCode": "Point your camera at a barcode",
+  "@pointCameraAtCode": {
+    "description": "Instruction for scanning"
+  }
+}
